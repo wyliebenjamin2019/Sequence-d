@@ -1,0 +1,2 @@
+# Sequence-d
+Find numbers
