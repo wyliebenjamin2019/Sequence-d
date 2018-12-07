@@ -1,0 +1,12 @@
+"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\lib\idea_rt.jar=52869:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\bwyli\IdeaProjects\Sequenced\out\production\Sequenced Main
+Fabonacci Sequence:
+1 2 3 5 8 13 21 34 55 89 
+Perfect Squares:
+1 4 9 16 25 36 49 64 81 100 
+Perfect Cubes:
+1 8 27 64 125 216 343 512 729 1000 
+Prime Numbers:
+2 3 5 7 11 13 17 19 23 29 
+Triangle Numbers:
+1 3 6 10 15 21 28 36 45 55 
+Process finished with exit code 0
